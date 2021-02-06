@@ -62,10 +62,15 @@ Bot Features 👇
 ╭─── *[_Sticker_]* 
 │
 ├➤ gambar + caption *$(_p)sticker*
-├➤ $(_p)emstik *[emoji]*
 ├➤ $(_p)stiker text|text
 ├➤ Reply/tag gambar + Ketik  *$(_p)│sticker*
 ├➤ $(_p)toimg *[reply sticker]*
+╰─────────────
+
+╭─── *[_other_]* 
+│
+├➤ $(_p)nulis [teks]
+├➤ $(_p)tutorial
 ╰─────────────
 
 ╭─── *[_search_]* 
@@ -74,11 +79,6 @@ Bot Features 👇
 ├➤ $(_p)googlef *[search]*
 ├➤ $(_p)modapk [nama aplikasi]
 ├➤ $(_p)readmore text|text
-╰─────────────
-
-╭─── *[_Nulis_]* 
-│
-├➤ $(_p)nulis [teks]
 ╰─────────────
 
 *Note :*
