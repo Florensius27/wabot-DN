@@ -1,9 +1,6 @@
 # Loren BOT
 Simple Whatsapp Bot
 
-# NfQ-BoT
-Simple WhatsApp Bot
-
 ### FOR TERMUX USER
 ```bash
 > pkg update && pkg upgrade
