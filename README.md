@@ -9,7 +9,7 @@ $pkg install nodejs
 $pkg install ffmpeg
 $pkg install imagemagick
 $git clone https://github.com/Florensius27/Loren-BOT
-$cd Arya-Bot
+$cd Loren-BOT
 $npm install
 ```
 ###### Run
