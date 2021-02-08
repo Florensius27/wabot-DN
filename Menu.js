@@ -63,7 +63,7 @@ Bot Features 👇
 │
 ├➤ gambar + caption *$(_p)sticker*
 ├➤ $(_p)stiker text|text
-├➤ Reply/tag gambar + Ketik  *$(_p)│sticker*
+├➤ Reply/tag gambar + Ketik  *$(_p)sticker*
 ├➤ $(_p)toimg *[reply sticker]*
 ╰─────────────
 
