@@ -1,4 +1,4 @@
-# Loren BOT
+### Loren BOT
 Simple Whatsapp Bot
 
 ### FOR TERMUX USER
