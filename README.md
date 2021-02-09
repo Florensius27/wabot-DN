@@ -1,7 +1,7 @@
 ## Loren BOT
 Simple Whatsapp Bot
 
-#### FOR TERMUX USER
+### FOR TERMUX USER
 ```bash
 > pkg update && pkg upgrade
 > pkg install git
@@ -19,7 +19,7 @@ Simple Whatsapp Bot
 
 ---------
 
-#### FOR WINDOWS/VPS/RDP USER
+### FOR WINDOWS/VPS/RDP USER
 ```bash
 > git clone https://github.com/Florensius27/Loren-BOT
 > cd Loren-BOT
