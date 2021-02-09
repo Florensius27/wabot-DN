@@ -12,7 +12,7 @@ Simple Whatsapp Bot
 > cd Loren-BOT
 > npm install
 ```
-###### Run
+##### Run
 ```bash
 > node . [<session name>] (session name is optional)
 ```
@@ -25,7 +25,7 @@ Simple Whatsapp Bot
 > cd Loren-BOT
 > npm install
 ```
-###### Run
+##### Run
 ```bash
 > node index.js
 ```
