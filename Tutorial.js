@@ -1,9 +1,9 @@
 let handler  = async (m, { conn, usedPrefix: _p }) => {
   conn.reply(m.chat, `
-Tutorial Buat Bot WA:
-Credit: *~Floren*
+Simple Whatsapp Bot :
+Credit: *Floren*
 
-User TERMUX Android
+For TERMUX user
 1) $pkg install git
 2) $pkg install nodejs
 3) $pkg install ffmpeg
@@ -14,7 +14,7 @@ User TERMUX Android
 
 note : lambang *$* tidak usah ditulis!
 
-User WINDOWS/VPS/RDP
+For WINDOWS/VPS/RDP User
 1) git clone https://github.com/Florensius27/Loren-BOT
 2) cd Loren-BOT
 3) npm install
