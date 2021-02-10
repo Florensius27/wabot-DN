@@ -50,7 +50,7 @@ let handler  = async (m, { conn, args }) => {
   ])
   .on('error', e => conn.reply(m.chat, util.format(e), m))
   .on('exit', () => {
-    conn.sendFile(m.chat, outputPath, 'nulis.jpg', '*Sukses nulis!! #Loren_BOT* \n*Instagram:* @loren_bot27')
+    conn.sendFile(m.chat, outputPath, 'nulis.jpg', '*Sukses nulis!! #Marxy_BOT* \n*Instagram:* @loren_bot27')
   })
 }
 handler.command = /^nulis$/i
