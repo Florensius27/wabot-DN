@@ -35,8 +35,9 @@ let handler = async (m, { conn, usedprefix:_p }) => {
 *══❏☆[_Marky • BOT_]☆❏══*
 
 Hai */%name%* 👋
-Bot name : *Loren BOT*
-Version : *1.6*
+Bot name : *Marky BOT*
+Created by : Florensius
+Owner : Bernadetta Margareth = wa.me/6282294187818
 
 *══❏☆[_Bot Commands_]☆❏══*
 
@@ -47,7 +48,7 @@ Version : *1.6*
 
 ➤ *•Dilarang spam!!*
 ➤ *•Dilarang toxic!!*
-➤ *•Dilarang telpon!!*
+➤ *•Dilarang telpon/VC!!*
 
 *[_Main_]*
 
@@ -96,7 +97,7 @@ pengembangan, dan bot hanya melayani saat jam pelayanan! Jadi gunakanlah bot den
 ╭───────────────
 │I Hope You Have A Good Day..!! ✨
 │
-╰━━> *꧁Loren • BOT꧂* ━━
+╰━━> *꧁Marky • BOT꧂* ━━
 ━⋆⃟⊱๑⋆⃟⊱๑⋆⃟⊱๑ ˌ⃟ˌ⃟ˌ⃟ˌ‍⚔ˌ⃟ˌ⃟ˌ⃟ˌ ๑⋆⃟⊱๑⋆⃟⊱๑⋆⃟⊱━
 `.trim()
     conn.reply(m.chat, {...preview, text}, m)
