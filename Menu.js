@@ -72,14 +72,15 @@ Bot Features 👇
 │
 ├➤ $(_p)google *[search]*
 ├➤ $(_p)googlef *[search]*
-├➤ $(_p)modapk [nama aplikasi]
+├➤ $(_p)modapk *[nama aplikasi]*
 ├➤ $(_p)readmore text|text
-├➤ $(_p)yta [url]
+├➤ $(_p)yta *[url]*
+├➤ $(_p)play *[url]*
 ╰─────────────
 
 ╭─── *[_other_]* 
 │
-├➤ $(_p)nulis [teks]
+├➤ $(_p)nulis *[teks]*
 ├➤ $(_p)tutorial
 ├➤ $(_p)ping
 ├➤ $(_p)speed
@@ -89,10 +90,8 @@ Bot Features 👇
 Bot masih dalam 
 pengembangan, dan bot hanya melayani saat jam pelayanan! Jadi gunakanlah bot dengan sebaik-baiknya
 
-*[_Time_]*
-*open* : *09:00* pagi
-*close* : *03:00* or *05:00* sore
-*Libur* : jumat *s/d* minggu
+⏳Time : open 24 jam
+✨Day : Setiap Hari
 
 ╭───────────────
 │I Hope You Have A Good Day..!! ✨
