@@ -2,6 +2,7 @@ const fetch = require('node-fetch')
 const FormData = require('form-data')
 const { MessageType } = require('@adiwajshing/baileys')
 
+ await m.reply('*[WAIT]* _Sedang memproses...⏳ silahkan tunggu  ±1 min!_')
 let handler  = async (m, { conn, args }) => {
   let q = m.quoted ? { message: { [m.quoted.mtype]: m.quoted }} : m
   if (/image/.test((m.quoted ? m.quoted : m).mtype)) {
