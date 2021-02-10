@@ -1,6 +1,6 @@
 let fetch = require('node-fetch')
 let handler = async function (m, { text, isPrems, isOwner }) {
-  if (!text) throw 'Gaada yang dicari :v'
+  if (!text) throw 'Tidak ada yang dicari'
   let res = await fetch(global.API('xteam', '/dl/play', { lagu: text }, 'APIKEY'))
   let { judul, size, thumbnail, url } = await res.json()
   let s = Number(size)
