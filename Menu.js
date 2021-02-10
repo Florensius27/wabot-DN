@@ -32,10 +32,10 @@ let handler = async (m, { conn, usedprefix:_p }) => {
           .replace(/%week/g, weton)
           .replace(/%date/g, date)
           .replace(/%time/g, time)
-*══❏☆[_Marky • BOT_]☆❏══*
+*══❏☆[_Marxy • BOT_]☆❏══*
 
 Hai */%name%* 👋
-Bot name : *Marky BOT*
+Bot name : *Marxy BOT*
 Created by : Florensius
 Owner : Bernadetta Margareth = wa.me/6282294187818
 
@@ -97,7 +97,7 @@ pengembangan, dan bot hanya melayani saat jam pelayanan! Jadi gunakanlah bot den
 ╭───────────────
 │I Hope You Have A Good Day..!! ✨
 │
-╰━━> *꧁Marky • BOT꧂* ━━
+╰━━> *꧁Marxy • BOT꧂* ━━
 ━⋆⃟⊱๑⋆⃟⊱๑⋆⃟⊱๑ ˌ⃟ˌ⃟ˌ⃟ˌ‍⚔ˌ⃟ˌ⃟ˌ⃟ˌ ๑⋆⃟⊱๑⋆⃟⊱๑⋆⃟⊱━
 `.trim()
     conn.reply(m.chat, {...preview, text}, m)
