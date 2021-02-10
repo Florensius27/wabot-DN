@@ -32,7 +32,7 @@ let handler = async (m, { conn, usedprefix:_p }) => {
           .replace(/%week/g, weton)
           .replace(/%date/g, date)
           .replace(/%time/g, time)
-*══❏☆[_Loren • BOT_]☆❏══*
+*══❏☆[_Marky • BOT_]☆❏══*
 
 Hai */%name%* 👋
 Bot name : *Loren BOT*
