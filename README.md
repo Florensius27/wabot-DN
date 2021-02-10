@@ -1,6 +1,6 @@
 ## Hai Welcome to Loren Official
 
-###### 👋 
+# 👋 
 
 ## Loren BOT
 Simple Whatsapp Bot
