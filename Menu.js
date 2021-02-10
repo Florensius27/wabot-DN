@@ -34,7 +34,7 @@ let handler = async (m, { conn, usedprefix:_p }) => {
           .replace(/%time/g, time)
 *══❏☆[_Marxy • BOT_]☆❏══*
 
-Hai */%name%* 👋
+Hai *@%name* 👋
 Bot name : *Marxy BOT*
 Created by : Florensius
 Owner : Bernadetta Margareth = wa.me/6282294187818
@@ -84,6 +84,11 @@ Bot Features 👇
 ├➤ $(_p)tutorial
 ├➤ $(_p)ping
 ├➤ $(_p)speed
+╰─────────────
+
+╭── *[_No Category_]*
+│
+├➤ $(_p) <>
 ╰─────────────
 
 *Note :*
