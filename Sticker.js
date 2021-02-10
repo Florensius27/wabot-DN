@@ -10,7 +10,7 @@ let handler  = async (m, { conn, args }) => {
     let stiker = await sticker(img)
 stiker = await nStiker(stiker, {
  author: '@Floren',
- name: 'Loren BOT'
+ name: 'Marky-BOT'
 })
     conn.sendMessage(m.chat, stiker, MessageType.sticker, {
       quoted: m
