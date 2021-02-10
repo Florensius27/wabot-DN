@@ -79,6 +79,7 @@ Bot Features 👇
 ├➤ $(_p)googlef *[search]*
 ├➤ $(_p)modapk [nama aplikasi]
 ├➤ $(_p)readmore text|text
+├➤ $(_p)yta [url]
 ╰─────────────
 
 *Note :*
