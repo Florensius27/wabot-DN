@@ -63,46 +63,48 @@ Bot Features 👇
 ╭─── *[_Sticker_]* 
 │
 ├➤ *$(_p)sticker*
-│Desc : jadi stiker
+│ *Desc* : jadi stiker
 ├➤ Reply/tag gambar + Ketik  *$(_p)sticker*
-│Desc : jadi stiker
+│ *Desc* : jadi stiker
 ├➤ $(_p)toimg *[reply sticker]*
-│Desc : jadi gambar
+│ *Desc* : jadi gambar
 ╰──────────────────
 
 ╭─── *[_search_]* 
 │
 ├➤ $(_p)google *[search]*
-│Desc : pencarian melalui google
+│ *Desc* : pencarian melalui google
 ├➤ $(_p)googlef *[search]*
-│Desc : Pencarian melalui google
+│ *Desc* : Pencarian melalui google
 ├➤ $(_p)apk mod *[nama aplikasi]*
-│Desc : link aplikasi mod
+│ *Desc* : link aplikasi mod
 ├➤ $(_p)readmore text|text
-│Desx : teks baca selengkapnya
+│ *Desc* : teks baca selengkapnya
 ├➤ $(_p)yta *[url]*
-│Desc : youtube search
+│ *Desc* : youtube search
 ├➤ $(_p)play *[url]*
-│Desc : mainkan
+│ *Desc* : mainkan
 ╰─────────────
 
 ╭─── *[_other_]* 
 │
 ├➤ $(_p)nulis *[teks]*
-│Desc : menulis teks
+│ *Desc* : menulis teks
 ├➤ $(_p)tutorial
-│Desc : tutorial bikin bot
+│ *Desc* : tutorial bikin bot
 ├➤ $(_p)ping
-│Desc : kekuatan sinyal
+│ *Desc* : kekuatan sinyal
 ├➤ $(_p)speed
-│Desc : kekuatan sinyal
+│ *Desc* : kekuatan sinyal
 ╰─────────────
 
 ╭── *[_No Category_]*
 │
 ├➤ $(_p) <>
-│Desc : tidak termasuk category
+│ *Desc* : tidak termasuk category
 ╰───────────────
+
+*NB* : Apabila bot tidak merespon, silahkan send ulang
 
 ⏳Time : open 24 jam
 ✨Day : Setiap Hari
