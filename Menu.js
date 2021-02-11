@@ -79,29 +79,30 @@ Bot Features 👇
 ├➤ $(_p)apk mod *[nama aplikasi]*
 │Desc : link aplikasi mod
 ├➤ $(_p)readmore text|text
-│Desx : teks readmore
+│Desx : teks baca selengkapnya
 ├➤ $(_p)yta *[url]*
 │Desc : youtube search
 ├➤ $(_p)play *[url]*
-│Desc : 
+│Desc : mainkan
 ╰─────────────
 
 ╭─── *[_other_]* 
 │
 ├➤ $(_p)nulis *[teks]*
+│Desc : menulis teks
 ├➤ $(_p)tutorial
+│Desc : tutorial bikin bot
 ├➤ $(_p)ping
+│Desc : kekuatan sinyal
 ├➤ $(_p)speed
+│Desc : kekuatan sinyal
 ╰─────────────
 
 ╭── *[_No Category_]*
 │
 ├➤ $(_p) <>
-╰─────────────
-
-*Note :*
-Bot masih dalam 
-pengembangan, dan bot hanya melayani saat jam pelayanan! Jadi gunakanlah bot dengan sebaik-baiknya
+│Desc : tidak termasuk category
+╰───────────────
 
 ⏳Time : open 24 jam
 ✨Day : Setiap Hari
