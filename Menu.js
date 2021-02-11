@@ -62,20 +62,28 @@ Bot Features 👇
 
 ╭─── *[_Sticker_]* 
 │
-├➤ gambar + caption *$(_p)sticker*
-├➤ $(_p)stiker text|text
+├➤ *$(_p)sticker*
+│Desc : jadi stiker
 ├➤ Reply/tag gambar + Ketik  *$(_p)sticker*
+│Desc : jadi stiker
 ├➤ $(_p)toimg *[reply sticker]*
+│Desc : jadi gambar
 ╰──────────────────
 
 ╭─── *[_search_]* 
 │
 ├➤ $(_p)google *[search]*
+│Desc : pencarian melalui google
 ├➤ $(_p)googlef *[search]*
-├➤ $(_p)modapk *[nama aplikasi]*
+│Desc : Pencarian melalui google
+├➤ $(_p)apk mod *[nama aplikasi]*
+│Desc : link aplikasi mod
 ├➤ $(_p)readmore text|text
+│Desx : teks readmore
 ├➤ $(_p)yta *[url]*
+│Desc : youtube search
 ├➤ $(_p)play *[url]*
+│Desc : 
 ╰─────────────
 
 ╭─── *[_other_]* 
