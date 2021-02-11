@@ -1,4 +1,12 @@
-## Loren BOT
+<h1 align="center">WELCOME TO <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="60px" alt="hi"><br>Loren_27 !</h1>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Arya274/Arya274/main/20210127_212936.jpg" />
+</p>
+<a href="https://instagram.com/arpunchs"><img src="https://image.flaticon.com/icons/svg/174/174848.svg" alt="alt text" width="20" height="20"></a>      &nbsp;&nbsp;   <a href="https://youtube.com/c/DrawlNag"><img src="https://image.flaticon.com/icons/svg/174/174855.svg" alt="alt text" width="20" height="20"></a>
+
+ &nbsp;&nbsp; 
+
 #### Simple Whatsapp Bot
 
 ### FOR TERMUX USER
