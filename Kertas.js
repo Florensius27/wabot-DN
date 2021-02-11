@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/Arya274/Arya-DN/main/src/kertas/magernulis1.jpg
+<img src="https://raw.githubusercontent.com/Arya274/Arya-DN/main/src/kertas/magernulis1.jpg
