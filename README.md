@@ -1,5 +1,4 @@
-## Hai Welcome to Loren BOT Official
-
+## Loren BOT
 #### Simple Whatsapp Bot
 
 ### FOR TERMUX USER
