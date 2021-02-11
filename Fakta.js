@@ -41,5 +41,5 @@ function pickRandom(list) {
 "Siput gurun dapat tertidur selama bertahun-tahun tanpa terbangun!"
 "Warna asli matahari sebenranya adalah warna putih!"
 "Papua Newgini dinobatkan sebagai negara dengan bahsa terbanyak didunia, kurang lebih 850 bahasa, dan diurutan kedua ada Indonesia sekitar 718 bahasa!"
-"Rendang dinobatkan sebagai makanan terenak didunia, dan diurutan kedua adalah Nasi Goreng
+"Rendang dinobatkan sebagai makanan terenak didunia, dan diurutan kedua adalah Nasi Goreng!"
 "Bahasa Internasional bukanlah bahasa inggris, tetapi bahasa Mandarin, dengan jumlah penutur bahasa Mandarin sekitar 918 juta, sedangkan bahasa Inggris menepati posisi ke 4, dengan jumlah penutur hanya sekitar 379 juta!" 
