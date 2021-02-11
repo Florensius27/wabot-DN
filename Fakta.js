@@ -29,7 +29,7 @@ function pickRandom(list) {
 "Waktu terbaik untuk berolahraga adalah jam 3-4 karena diwaktu itulah tubuh dalam keadaan terbaik!"
 "Semut adalah hewan dengan jumlah terbanyak didunia, dengam jumlah kurang lebih 10.000.000 triliun (sepuluh juta triliun), dengan jumlah yang fantastis itu, diperkirakan bahwa berat seluruh semut didunia sama dengan berat seluruh manusia di bumi!"
 "Kodok terbesar saat ini adalah kodok Goliath yang memiliki berat bisa mencapai 3,3 kg dengan panjang 34 cm (lebih besar dari ukuran telapak tangan orang dewasa)"
-"Indonesia dikenal sebagai negara dengan jumlah suku terbanyak didunia, yaitu sekitar
+"Indonesia dikenal sebagai negara dengan jumlah suku terbanyak didunia, yaitu sekitar 1.340 suku bangsa!"
 "Maklukh terkecil didunia adalah tardigrada, ukuran nya hanya sekitar 0,00005 mm, tardigrada juga adalah satu-satunya hewan yang mampu bertahan di keadaan yang ekstrim, seperti lingkungan beku (0°C) hingga bersuhu sangat panas (151°C) bahkan bertahan di radiasi sebesar 500.700 Rad, 1.000 kali lebih tinggi dari makhluk hidup lain dalam bertahan, tardigrada juga bisa hidup tanpa oksigen dan berumur sekitar 10-100 tahun!"
 "Elang botak tidaklah botak!"
 "Ular Mamba Hitam dijuluki sebagai ular paling berbahaya didunia, ular ini memiliki corak garis-garis berwarna hitam dan putih, Ular Mamba Hitam juga dinobatkan sebagai ular tercepat didunia yaitu sekitar 16 km/jam!"
