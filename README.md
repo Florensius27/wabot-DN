@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Arya274/Arya274/main/20210127_212936.jpg" />
 </p>
-<a href="https://instagram.com/Loren_27"><img src="https://image.flaticon.com/icons/svg/174/174848.svg" alt="alt text" width="20" height="20"></a>      &nbsp;&nbsp;   <a href="https://youtube.com/c/Florensius_27"><img src="https://image.flaticon.com/icons/svg/174/174855.svg" alt="alt text" width="20" height="20"></a>
 
  &nbsp;&nbsp; 
 
