@@ -1,6 +1,6 @@
 const { spawn } = require('child_process')
 const util = require('util')
-const { MessageType } = require('@adiwajshing/baileys')
+const { MessageType } = require('@Loren_27/baileys')
 
 let handler  = async (m, { conn }) => {
   if (!m.quoted) return conn.reply(m.chat, 'Tag stikernya bro!', m)
