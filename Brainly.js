@@ -1,7 +1,7 @@
 const BrainlySearch = require('../lib/brainly')
 
 let handler = async(m, { conn, text, usedPrefix }) => {
-    if (text.length == 0) return conn.reply(m.chat, `Untuk mencari jawaban dari brainly\n\nPenggunaan: ${usedPrefix}brainly [pertanyaan] [.jumlah]\n\nEx : \n!brainly NKRI .2`, m)
+    if (text.length == 0) return conn.reply(m.chat, `Untuk mencari jawaban dari brainly\n\nPenggunaan: $(_p)brainly [pertanyaan] [.jumlah]\n\nEx : \n!brainly NKRI .2`, m)
     let tanya = text
     let jum = Number(tanya.split('.')[1]) || 2
     if (jum > 10) return conn.reply(m.chat, 'Max 10!', m)
