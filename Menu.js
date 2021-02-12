@@ -92,8 +92,8 @@ Bot Features 👇
 │ *Desc* : lirik lagu lengkap
 ├➤ $(_p)yta *[url]*
 │ *Desc* : youtube pencarian
-├➤ $(_p)play *[url]*
-│ *Desc* : mainkan
+├➤ $(_p)play *[title]*
+│ *Desc* : mainkan lagu
 ├➤ $(_p)apkmod *[nama aplikasi]*
 │ *Desc* : link aplikasi mod
 ╰───────────────────
