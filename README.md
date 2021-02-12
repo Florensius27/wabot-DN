@@ -1,6 +1,6 @@
-<h4 align="center">
-    🔰HAI! WELCOME TO🔰 
-</h4>
+<h1 align="center">HAI! WELCOME TO <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="60px" alt="hi"><br>DRAWL NAG !</h1>
+
+<p align="center">
 
 <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="60px" alt="hi"><br>Florensius27 !</h1>
 
