@@ -70,6 +70,16 @@ Bot Features 👇
 │ *Desc* : jadi gambar
 ╰──────────────────
 
+╭─── *[_tools_]*
+│
+├➤ $(_p)logoavanger text|text
+│ *Desc* : logo avanger
+├➤ $(_p)glitchtext text
+│ *Desc* : teks glitch
+➤ $(_p)readmore text|text
+│ *Desc* : teks baca selengkapnya
+╰──────────────────
+
 ╭─── *[_Search_]* 
 │
 ├➤ $(_p)google *[search]*
@@ -84,7 +94,7 @@ Bot Features 👇
 │ *Desc* : youtube search
 ├➤ $(_p)play *[url]*
 │ *Desc* : mainkan
-╰─────────────
+╰───────────────────
 
 ╭─── *[_Education_]* 
 │
