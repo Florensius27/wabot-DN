@@ -6,6 +6,13 @@
   <img src="https://raw.githubusercontent.com/Arya274/Arya274/main/20210127_212936.jpg" />
  &nbsp;&nbsp; 
 
+![github stats](https://github-readme-stats.vercel.app/api?username=Marxy-BOT&show_icons=true&theme=dark)
+<a href="https://github.com/Florensius27/T4MPILAN-V5"><img title="Tampilan" src="https://github-readme-stats.vercel.app/api/pin/?username=Florensius27&repo=T4MPILAN-V5&theme=vision-friendly-dark"></a>
+<a href="https://github.com/Florensius27/enc"><img title="Encrypt python2" src="https://github-readme-stats.vercel.app/api/pin/?username=Florensius27&repo=enc&theme=vision-friendly-dark"></a>
+<a href="https://github.com/Florensius27/DefaceWebDav"><img title="Deface website" src="https://github-readme-stats.vercel.app/api/pin/?username=Florensius27&repo=DefaceWebDav&theme=vision-friendly-dark"></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dunia-Kode&layout=compact" alt="Top language">
+
 ## Marxy BOT
 
 ### Simple Whatsapp Bot
