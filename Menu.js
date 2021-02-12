@@ -34,10 +34,10 @@ let handler = async (m, { conn, usedprefix:_p }) => {
           .replace(/%time/g, time)
 *══❏☆[_Marxy • BOT_]☆❏══*
 
-Hai *@%name* 👋
+Hai *%name* 👋
 Bot name : *Marxy BOT*
 Created by : Florensius
-Owner : Bernadetta Margareth = wa.me/6282294187818
+Owner : Bernadetta = wa.me/6282294187818
 
 *══❏☆[_Bot Commands_]☆❏══*
 
@@ -88,12 +88,14 @@ Bot Features 👇
 │ *Desc* : Pencarian melalui google
 ├➤ $(_p)joox *[URL]*
 │ *Desc* : lagu via joox
-├➤ $(_p)apk mod *[nama aplikasi]*
-│ *Desc* : link aplikasi mod
+├➤ $(_p)lirik *[title]*
+│ *Desc* : lirik lagu lengkap
 ├➤ $(_p)yta *[url]*
 │ *Desc* : youtube search
 ├➤ $(_p)play *[url]*
 │ *Desc* : mainkan
+├➤ $(_p)apk mod *[nama aplikasi]*
+│ *Desc* : link aplikasi mod
 ╰───────────────────
 
 ╭─── *[_Education_]* 
@@ -104,9 +106,9 @@ Bot Features 👇
 │ *Desc* : jawaban via brainly
 ├➤ $(_p)kbbi *[kata kunci]*
 │ *Desc* : arti kata kunci
-├➤ $(_p)calculator *[angkanya]* +×÷/*-
+├➤ $(_p)calculator *[angkanya]* [+×÷/*-]
 │ *Desc* : kalkulator
-╰──────────────────
+╰───────────────────
 
 ╭─── *[_Other_]* 
 │
@@ -126,7 +128,7 @@ Bot Features 👇
 │ *Desc* : tidak termasuk category
 ╰───────────────
 
-*NB* : Apabila bot tidak merespon, silahkan send ulang
+*NB* : Apabila bot tidak merespon, silahkan send ulang..
 
 ⏳Time : open 24 jam
 ✨Day : Setiap Hari
