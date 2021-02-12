@@ -104,6 +104,8 @@ Bot Features 👇
 │ *Desc* : jawaban via brainly
 ├➤ $(_p)kbbi *[kata kunci]*
 │ *Desc* : arti kata kunci
+├➤ $(_p)calculator *[angkanya]* +×÷/*-
+│ *Desc* : kalkulator
 ╰──────────────────
 
 ╭─── *[_Other_]* 
@@ -129,7 +131,7 @@ Bot Features 👇
 ⏳Time : open 24 jam
 ✨Day : Setiap Hari
 
-╭───────────────
+╭─────────────────
 │I Hope You Have A Good Day..!! ✨
 │
 ╰━━> *꧁Marxy • BOT꧂* ━━
