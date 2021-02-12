@@ -6,9 +6,7 @@
   <img src="https://raw.githubusercontent.com/Arya274/Arya274/main/20210127_212936.jpg" />
  &nbsp;&nbsp; 
 
-## Marxy BOT
-
-### Simple Whatsapp Bot
+# Simple Whatsapp Bot
 
 ### FOR TERMUX USER
 ```bash
