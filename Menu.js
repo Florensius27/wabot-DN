@@ -76,7 +76,7 @@ Bot Features 👇
 │ *Desc* : logo avanger
 ├➤ $(_p)glitchtext text
 │ *Desc* : teks glitch
-➤ $(_p)readmore text|text
+├➤ $(_p)readmore text|text
 │ *Desc* : teks baca selengkapnya
 ╰──────────────────
 
