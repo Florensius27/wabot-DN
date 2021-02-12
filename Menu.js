@@ -64,29 +64,39 @@ Bot Features 👇
 │
 ├➤ *$(_p)sticker*
 │ *Desc* : jadi stiker
-├➤ Reply/tag gambar + Ketik  *$(_p)sticker*
+├➤ Reply gambar ketik $(_p)sticker
 │ *Desc* : jadi stiker
 ├➤ $(_p)toimg *[reply sticker]*
 │ *Desc* : jadi gambar
 ╰──────────────────
 
-╭─── *[_search_]* 
+╭─── *[_Search_]* 
 │
 ├➤ $(_p)google *[search]*
 │ *Desc* : pencarian melalui google
 ├➤ $(_p)googlef *[search]*
 │ *Desc* : Pencarian melalui google
+├➤ $(_p)joox *[URL]*
+│ *Desc* : lagu via joox
 ├➤ $(_p)apk mod *[nama aplikasi]*
 │ *Desc* : link aplikasi mod
-├➤ $(_p)readmore text|text
-│ *Desc* : teks baca selengkapnya
 ├➤ $(_p)yta *[url]*
 │ *Desc* : youtube search
 ├➤ $(_p)play *[url]*
 │ *Desc* : mainkan
 ╰─────────────
 
-╭─── *[_other_]* 
+╭─── *[_Education_]* 
+│
+├➤ $(_p)math *[mode]*
+│ *Desc* : tantangan matematika
+├➤ $(_p)brainly *[query]*
+│ *Desc* : jawaban via brainly
+├➤ $(_p)kbbi *[kata kunci]*
+│ *Desc* : arti kata kunci
+╰──────────────────
+
+╭─── *[_Other_]* 
 │
 ├➤ $(_p)nulis *[teks]*
 │ *Desc* : menulis teks
