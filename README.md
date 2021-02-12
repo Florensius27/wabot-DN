@@ -40,4 +40,4 @@
 ```
 
 ### Jangan Lupa Follow Akun Githubku Dan Ig Ku ya
-### Ig = Loren_27
+### Ig = @Loren_27
