@@ -24,6 +24,9 @@
 > node . [<session name>] (session name is optional)
 ```
 
+# NB = [Y/n] = Y
+ # [Default=N] = Y
+
 ---------
 
 ### FOR WINDOWS/VPS/RDP USER
