@@ -12,7 +12,7 @@ let handler = async(m, { conn }) => {
             })
     })
 }
-handler.help = ['faktaunik']
+handler.help = ['fakta']
 handler.tags = ['random']
 handler.command = /^(fakta)$/i
 handler.owner = false
