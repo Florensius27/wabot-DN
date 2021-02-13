@@ -24,7 +24,7 @@
 > node . [<session name>] (session name is optional)
 ```
 
-## NB = [Y/n] = Y
+## Note = [Y/n] = Y
  ## [Default=N] = Y
 
 ---------
