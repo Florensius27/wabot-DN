@@ -23,8 +23,8 @@
 ```bash
 > node . [<session name>] (session name is optional)
 ```
-
-## Note = [Y/n] = Y
+# Note
+## [Y/n] = Y
  ## [Default=N] = Y
 
 ---------
