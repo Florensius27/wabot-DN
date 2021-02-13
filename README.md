@@ -6,6 +6,10 @@
   <img src="https://raw.githubusercontent.com/Arya274/Arya274/main/20210127_212936.jpg" />
  &nbsp;&nbsp; 
 
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" alt="Mario Game" width="600" />
+<div align="center">
+<details>
+
 ## Simple Whatsapp Bot
 
 ### FOR TERMUX USER
