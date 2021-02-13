@@ -53,7 +53,7 @@ let handler  = async (m, { conn, args }) => {
     conn.sendFile(m.chat, outputPath, 'nulis.jpg', '*Sukses nulis!! #Marxy_BOT* \n*Instagram:* @loren_bot27')
   })
 }
-handler.command = /^nulis$/i
+handler.command = /^nulis|tulis$/i
 handler.owner = false
 handler.mods = false
 handler.premium = false
