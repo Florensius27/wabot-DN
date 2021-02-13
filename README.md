@@ -6,8 +6,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Arya274/Arya274/main/20210127_212936.jpg" />
  &nbsp;&nbsp; 
-<div align="center">
-<details>
 
 ## Simple Whatsapp Bot
 
