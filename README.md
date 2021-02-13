@@ -23,9 +23,11 @@
 ```bash
 > node . [<session name>] (session name is optional)
 ```
-## [Y/n] = Y
- ## [Default=N] = Y
-
+## Note
+```bash
+[Y/n] = Y
+[Default=N] = Y
+```
 ---------
 
 ### FOR WINDOWS/VPS/RDP USER
