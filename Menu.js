@@ -118,8 +118,6 @@ Bot Features 👇
 │
 ├➤ $(_p)tutorial
 │ *Desc* : tutorial bikin bot
-├➤ $(_p)jadibot
-│ *Desc* : jadi bot
 ├➤ $(_p)ping
 │ *Desc* : kekuatan sinyal
 ├➤ $(_p)speed
