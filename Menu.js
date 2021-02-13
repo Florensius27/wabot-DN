@@ -72,12 +72,16 @@ Bot Features 👇
 
 ╭───── *[_tools_]*
 │
-├➤ $(_p)logoavanger text|text
+├➤ $(_p)logoavanger *text|text*
 │ *Desc* : logo avanger
-├➤ $(_p)glitchtext text
+├➤ $(_p)glitchtext *[text]*
 │ *Desc* : teks glitch
-├➤ $(_p)readmore text|text
-│ *Desc* : teks baca selengkapnya
+├➤ $(_p)readmore *text|text*
+│ *Desc* : baca selengkapnya
+├➤ $(_p)nulis *[text]*
+│ *Desc* : menulis teks
+├➤ $(_p)tulis *[text]*
+│ *Desc* : menulis teks
 ╰──────────────────
 
 ╭───── *[_Search_]*
@@ -98,14 +102,6 @@ Bot Features 👇
 │ *Desc* : link aplikasi mod
 ╰───────────────────
 
-╭─── *[_nulis_]* 
-│
-├➤ $(_p)nulis *[text]*
-│ *Desc* : menulis teks
-├➤ $(_p)tulis *[text]*
-│ *Desc* : menulis teks
-╰─────────────
-
 ╭──── *[_Education_]* 
 │
 ├➤ $(_p)math *[mode]*
@@ -120,10 +116,10 @@ Bot Features 👇
 
 ╭──── *[_Other_]* 
 │
-├➤ $(_p)nulis *[teks]*
-│ *Desc* : menulis teks
 ├➤ $(_p)tutorial
 │ *Desc* : tutorial bikin bot
+├➤ $(_p)jadibot
+│ *Desc* : jadi bot
 ├➤ $(_p)ping
 │ *Desc* : kekuatan sinyal
 ├➤ $(_p)speed
