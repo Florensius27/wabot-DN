@@ -7,7 +7,8 @@
   <img src="https://raw.githubusercontent.com/Arya274/Arya274/main/20210127_212936.jpg" />
  &nbsp;&nbsp; 
 
-</details>
+</
+details>
 
 ## Simple Whatsapp Bot
 
