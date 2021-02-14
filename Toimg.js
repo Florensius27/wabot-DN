@@ -7,7 +7,7 @@ let handler  = async (m, { conn }) => {
   let q = { message: { [m.quoted.mtype]: m.quoted }}
   if (/sticker/.test(m.quoted.mtype)) {
     let sticker = await conn.downloadM(q)
-    m.reply('*[Wait]* _Sedang memproses...⏳ silahkan tunggu ±1 min!_')
+    m.reply('*⏳ ᴡᴀɪᴛ ꜱᴇᴅᴀɴɢ memᴩʀᴏꜱᴇꜱ...*')
     conn.sendFile(m.chat, link, ('*_Processing Success.. #Marxy_BOT_*')
     if (!sticker) throw sticker
     let bufs = []
