@@ -3,21 +3,41 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 Simple Whatsapp Bot :
 Credit: *Floren*
 
-For TERMUX user
-1) $pkg install git
-2) $pkg install nodejs
-3) $pkg install ffmpeg
-4) $pkg install imagemagick
-5) $git clone https://github.com/Florensius27/Loren-BOT
-7) $cd Loren-BOT
-8) $npm install
+Hai *%name!* 👋
 
-note : lambang *$* tidak usah ditulis!
+Tutorial Simple Bot Whatsapp
 
-For WINDOWS/VPS/RDP User
-1) git clone https://github.com/Florensius27/Loren-BOT
-2) cd Loren-BOT
-3) npm install
+_*Note :* Kalau mau ambil script bot tidak perlu mengatasnamakan github saya gpp kok! Tapi izin dulu ya 👌_
+
+*For Termux User*
+```$pkg update && pkg upgrade```
+```$pkg install git```
+```$pkg install ffmpeg```
+```$pkg install imagemagick```
+```$pkg install nodejs```
+```$git clone https://github.com/Florensius27/Loren-BOT```
+```$ls```
+```$cd Loren-BOT```
+```$npm install```
+
+*Run*
+```$node index.js```
+
+*Note :* [Y/n] = Y
+            [Default=N] = Y
+
+*For Windows/Vpn/Rdp User*
+> ```git clone https://github.com/Florensius27/Loren-BOT```
+```> cd Loren-BOT```
+```> npm install```
+
+Follow Social media Creator
+*instagram = @Loren_27*
+*Github : Florensius27*
+*Youtube : Florensius_27*
+
+Social media owner
+*Instagram = @Bernadetta_Hutabarat*
 
 `.trim(), m)
 }
