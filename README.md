@@ -38,3 +38,5 @@
 > cd Loren-BOT
 > npm install
 ```
+
+#### Note : Mau ganti menu? Ganti nama bot? Tidak mengatasnamakan github saya? Izin dulu ya!!
