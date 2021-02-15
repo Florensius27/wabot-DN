@@ -39,4 +39,6 @@
 > npm install
 ```
 
-#### Note : Mau ganti menu? Ganti nama bot? Tidak mengatasnamakan github saya? Izin dulu ya!!
+#### Note : Mau ganti menu? Ganti nama bot? Tidak mengatasnamakan github saya? Izin dulu ya melalui Ig!!
+```bash
+IG = Loren_27
