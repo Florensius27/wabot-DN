@@ -36,7 +36,7 @@ let handler = async (m, { conn, usedprefix:_p }) => {
 
 Hai *%name* 👋
 Bot name : *Marxy BOT*
-Created by : Florensius
+Creator: Florensius
 Owner : Bernadetta = wa.me/6282294187818
 
 *══❏☆[_Bot Commands_]☆❏══*
@@ -63,16 +63,16 @@ Bot Features 👇
 ╭──── *[_Sticker_]* 
 │
 ├➤ *$(_p)sticker*
-│ *Desc* : jadi stiker
+│ *Desc* : gambar ke stiker
 ├➤ Reply gambar ketik $(_p)sticker
-│ *Desc* : jadi stiker
+│ *Desc* : gambar ke stiker
 ├➤ $(_p)toimg *[reply sticker]*
-│ *Desc* : jadi gambar
+│ *Desc* : stiker ke gambar
 ╰──────────────────
 
 ╭───── *[_tools_]*
 │
-├➤ $(_p)logoavanger *text|text*
+├➤ $(_p)logoavanger *[text]*
 │ *Desc* : logo avanger
 ├➤ $(_p)glitchtext *[text]*
 │ *Desc* : teks glitch
@@ -82,6 +82,8 @@ Bot Features 👇
 │ *Desc* : menulis teks
 ├➤ $(_p)tulis *[text]*
 │ *Desc* : menulis teks
+├➤ $(_p)harta tahta*[text]*
+│ *Desc* : teks harta tahta
 ╰──────────────────
 
 ╭───── *[_Search_]*
@@ -97,7 +99,7 @@ Bot Features 👇
 ├➤ $(_p)yta *[url]*
 │ *Desc* : youtube pencarian
 ├➤ $(_p)play *[title]*
-│ *Desc* : mainkan lagu
+│ *Desc* : download lagu
 ├➤ $(_p)apkmod *[nama aplikasi]*
 │ *Desc* : link aplikasi mod
 ╰───────────────────
