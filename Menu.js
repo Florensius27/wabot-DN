@@ -46,9 +46,8 @@ Owner : Bernadetta = wa.me/6282294187818
 
 *[_Rules_]*
 
-➤ *•Dilarang spam!!*
-➤ *•Dilarang toxic!!*
-➤ *•Dilarang telpon/VC!!*
+➤ *•spam = BLOCK!!
+➤ *•telpon/VC!!* = BLOCL!!
 
 *[_Main_]*
 
