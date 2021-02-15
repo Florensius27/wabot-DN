@@ -12,14 +12,15 @@
 
 ### FOR TERMUX USER
 ```bash
-> pkg update && pkg upgrade
 > pkg install git
-> pkg install nodejs
 > pkg install ffmpeg
 > pkg install imagemagick
+> pkg install nodejs
 > git clone https://github.com/Florensius27/Loren-BOT
+> ls
 > cd Loren-BOT
-> npm install
+> npm i
+> node index.js
 ```
 #### Run
 ```bash
