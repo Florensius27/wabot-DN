@@ -42,6 +42,3 @@
 ```bash
 > node index.js
 ```
-
-### Jangan Lupa Follow Akun Githubku Dan Ig Ku ya
-### Ig = @Loren_27
