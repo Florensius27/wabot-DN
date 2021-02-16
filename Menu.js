@@ -87,13 +87,14 @@ Main
 ┏━━ *[_Tools_]*
 ┃
 ┣➤ $(_p)harta tahta *[text]*
+┣➤ $(_p)nulis *[text]*
 ┣➤ $(_p)ttp *[text]*
-┣➤ $(_p)textpro <effect> <text> | text
+┣➤ $(_p)textpro <effect> <text>|<text>
 ┣➤ $(_p)attp *[text]*
 ┣➤ $(_p)glitchtext *[text]*
 ┣➤ $(_p)tts *[text]*
 ┣➤ $(_p)avangerslogo *[text]*
-┣➤ $(_p)nulis *[text]*
+┣➤ $(_p)readmore <text>|<text>
 ┗━━━━━━━━━━━━
 
 ┏━ *[_Education_]*
