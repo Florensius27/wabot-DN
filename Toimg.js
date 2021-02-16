@@ -8,7 +8,6 @@ let handler  = async (m, { conn }) => {
   if (/sticker/.test(m.quoted.mtype)) {
     let sticker = await conn.downloadM(q)
     m.reply('*⏳ ᴡᴀɪᴛ ꜱᴇᴅᴀɴɢ memᴩʀᴏꜱᴇꜱ...*')
-    conn.sendFile(m.chat, link, ('*_Processing Success.. #Marxy_BOT_*')
     if (!sticker) throw sticker
     let bufs = []
     let im = spawn('convert', ['webp:-', 'jpeg:-'])
@@ -17,6 +16,7 @@ let handler  = async (m, { conn }) => {
     im.stdin.write(sticker)
     im.stdin.end()
     im.on('exit', () => {
+    conn.sendFile(m.chat, link, ('*_Processing Success.. #Marxy_BOT_*')
       conn.sendMessage(m.chat, Buffer.concat(bufs), MessageType.image, {
         quoted: m
       })
