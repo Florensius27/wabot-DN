@@ -3,6 +3,7 @@ let { JSDOM } = require('jsdom')
 let limit = 30
 let serverlist = ['id4', 'en60']
 let handler = async (m, { conn, args, isPrems, isOwner }) => {
+ await m.reply('*[_wᴀɪᴛ_] _sᴇᴅᴀɴɢ memᴩʀᴏꜱᴇꜱ...⏳_*')
   if (!args || !args[0]) throw 'urlnya mana?'
   let server = (args[1] || 'id4').toLowerCase()
   let { dl_link, thumb, title, filesize, filesizeF} = await yta(args[0], serverlist.includes(server) ? server : 'id4')
@@ -14,7 +15,7 @@ let handler = async (m, { conn, args, isPrems, isOwner }) => {
 `.trim(), m)
   if (!isLimit) conn.sendFile(m.chat, dl_link, title + '.mp3', `
 *Title:* ${title}
-*Filesize:* ${filesizeF}
+*size:* ${filesizeF}
 `.trim(), m)
 }
 handler.help = ['mp3','a'].map(v => 'yt' + v + ' <url> [server: id4, en60]')
