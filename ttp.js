@@ -5,6 +5,7 @@ const FormData = require('form-data')
 const { spawn } = require('child_process')
 const { MessageType } = require('@adiwajshing/baileys')
 
+m.reply('*⏳ ᴡᴀɪᴛ ꜱᴇᴅᴀɴɢ memᴩʀᴏꜱᴇꜱ...*')
 let handler  = async (m, { conn, text }) => {
   if (text) {
     let stiker = await sticker(null, global.API('xteam', '/ttp', { file: '', text }))
