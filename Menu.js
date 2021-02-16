@@ -54,92 +54,93 @@ Main
 
 ┏━━ *[_sticker maker_]*
 ┃
-┣➤ !sticker *(caption/reply)*
-┣➤ !stickergif *(caption/reply)*
-┣➤ !toimg *(caption/reply)*
+┣➤ $(_p)sticker *(caption/reply)*
+┣➤ $(_p)stickergif *(caption/reply)*
+┣➤ $(_p)toimg *(caption/reply)*
 ┗━━━━━━━━━━
 
 ┏━ *[_Downloader_]*
 ┃
-┣➤ !yta *[url]*
-┣➤ !ytmp3 *[url]*
-┣➤ !ytmp4 *[url]*
-┣➤ !play *[title]*
-┣➤ !joox *[url]*
+┣➤ $(_p)yta *[url]*
+┣➤ $(_p)ytmp3 *[url]*
+┣➤ $(_p)ytmp4 *[url]*
+┣➤ $(_p)play *[title]*
+┣➤ $(_p)joox *[url]*
 ┗━━━━━━━━
 
 ┏━━ *[_Search_]*
 ┃
-┣➤ !google *[search]*
-┣➤ !googlef  *[search]*
-┣➤ !apkmod *[aplikasi]*
-┣➤ !lirik *[title]*
+┣➤ $(_p)google *[search]*
+┣➤ $(_p)googlef  *[search]*
+┣➤ $(_p)apkmod *[aplikasi]*
+┣➤ $(_p)lirik *[title]*
 ┗━━━━━━━━━
 
 ┏━ *[_Quotes_]*
 ┃
-┣➤ !bucin
-┣➤ !katabijak
-┣➤ !fakta
-┣➤ !pantun
+┣➤ $(_p)bucin
+┣➤ $(_p)katabijak
+┣➤ $(_p)fakta
+┣➤ $(_p)pantun
 ┗━━━━━━
 
 ┏━━ *[_Tools_]*
 ┃
-┣➤ !harta tahta *[text]*
-┣➤ !ttp *[text]*
-┣➤ !textpro <effect> <text> | text
-┣➤ !attp *[text]*
-┣➤ !glitchtext *[text]*
-┣➤ !tts *[text]*
-┣➤ !avangerslogo *[text]*
-┣➤ !nulis *[text]*
+┣➤ $(_p)harta tahta *[text]*
+┣➤ $(_p)ttp *[text]*
+┣➤ $(_p)textpro <effect> <text> | text
+┣➤ $(_p)attp *[text]*
+┣➤ $(_p)glitchtext *[text]*
+┣➤ $(_p)tts *[text]*
+┣➤ $(_p)avangerslogo *[text]*
+┣➤ $(_p)nulis *[text]*
 ┗━━━━━━━━━━━━
 
 ┏━ *[_Education_]*
 ┃
-┣➤ !kbbi *[kata kunci]*
-┣➤ !brainly *[query]*
-┣➤ !math *[mode]*
-┣➤ !calc *angkanya* *[+-×+/÷]*
+┣➤ $(_p)kbbi *[kata kunci]*
+┣➤ $(_p)wiki *[kata kunci]*
+┣➤ $(_p)brainly *[query]*
+┣➤ $(_p)math *[mode]*
+┣➤ $(_p)calc *angkanya* *[+-×+/÷]*
 ┗━━━━━━━━━━━
 
 ┏━ *[_Xp and limit_]*
 ┃
-┣➤ !limit = ∞
-┣➤ !mining = +500 xp
-┣➤ !fight = +500 xp
-┣➤ !daily
-┣➤ !claim
+┣➤ limit = ∞
+┣➤ $(_p)mining = +500 xp
+┣➤ $(_p)fight = +500 xp
+┣➤ $(_p)daily
+┣➤ $(_p)claim
 ┗━━━━━━━━
 
 ┏━ *[_other_]*
 ┃
-┣➤ !tutorial 
-┣➤ !sosmed
-┣➤ !ping
-┣➤ !speed 
-┣➤ !jadibot
+┣➤ $(_p)tutorial 
+┣➤ $(_p)sosmed
+┣➤ $(_p)ping
+┣➤ $(_p)speed 
+┣➤ $(_p)jadibot
 ┗━━━━━━
 
 ┏━━ *[_Owner_]*
 ┃
-┣➤ !banchat
-┣➤ !unbanchat
-┣➤ !broadcast *[text]*
-┣➤ !bc *[text]*
-┣➤ !bcgc *[text]*
-┣➤ !broadcastgroup *[text]*
-┣➤ !setmenu *[menu]*
-┣➤ !setprefix *[prefix]*
-┣➤ !promote *@user*
-┣➤ !demote *@user*
-┣➤ !delete *[reply]*
+┣➤ $(_p)banchat
+┣➤ $(_p)unbanchat
+┣➤ $(_p)broadcast *[text]*
+┣➤ $(_p)bc *[text]*
+┣➤ $(_p)bcgc *[text]*
+┣➤ $(_p)broadcastgroup *[text]*
+┣➤ $(_p)setmenu *[menu]*
+┣➤ $(_p)setprefix *[prefix]*
+┣➤ $(_p)promote *@user*
+┣➤ $(_p)demote *@user*
+┣➤ $(_p)delete *[reply]*
 ┗━━━━━━━━
 
 ┏━ *[_No Category_]* 
 ┃
-┣➤ ! <>                    
+┣➤ $(_p) <>                    
 ┗━━━━━━━━
 
 *NB* : Apabila bot tidak merespon, silahkan send ulang..
