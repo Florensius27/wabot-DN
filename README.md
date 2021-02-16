@@ -18,15 +18,12 @@
 > pkg install ffmpeg
 > pkg install imagemagick
 > pkg install nodejs
-> git clone https://github.com/Florensius27/Loren-BOT
+> git clone https://github.com/Florensius27/wabot-DN
+> cd wabot-DN
 > ls
-> cd Loren-BOT
 > npm install
 ```
-#### Run
-```bash
-> node index.js
-```
+
 ## Note
 ```bash
 [Y/n] = Y
@@ -36,7 +33,7 @@
 
 ### FOR WINDOWS/VPS/RDP USER
 ```bash
-> git clone https://github.com/Florensius27/Loren-BOT
+> git clone https://github.com/Florensius27/
 > cd Loren-BOT
 > npm install
 ```
@@ -44,3 +41,4 @@
 #### Note : Mau ganti menu? Ganti nama bot? Tidak mengatasnamakan github saya? Izin dulu ya melalui Ig!!
 ```bash
 IG = Loren_27
+```
