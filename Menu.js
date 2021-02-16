@@ -123,10 +123,8 @@ Main
 ┣➤ $(_p)unbanchat
 ┣➤ $(_p)broadcast *[text]*
 ┣➤ $(_p)bc *[text]*
-┣➤ $(_p)bcgc *[text]*
 ┣➤ $(_p)broadcastgroup *[text]*
 ┣➤ $(_p)setmenu *[menu]*
-┣➤ $(_p)setprefix *[prefix]*
 ┣➤ $(_p)promote *@user*
 ┣➤ $(_p)demote *@user*
 ┣➤ $(_p)delete *[reply]*
