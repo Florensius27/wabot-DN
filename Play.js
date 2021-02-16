@@ -3,7 +3,6 @@ let handler = async function (m, { text, isPrems, isOwner }) {
   if (!text) throw 'Tidak ada yang dicari'
   let res = await fetch(global.API('xteam', '/dl/play', { lagu: text }, 'APIKEY'))
   let { judul, size, thumbnail, url } = await res.json()
-
    m.reply('*[_wᴀɪᴛ_] _sᴇᴅᴀɴɢ memᴩʀᴏꜱᴇꜱ...⏳_*')
   let s = Number(size)
   s = /MB/.test(size) ? s * 1024 : s
