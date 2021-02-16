@@ -7,7 +7,7 @@ let handler  = async (m, { conn }) => {
   let q = { message: { [m.quoted.mtype]: m.quoted }}
   if (/sticker/.test(m.quoted.mtype)) {
     let sticker = await conn.downloadM(q)
-    m.reply('*⏳ ᴡᴀɪᴛ ꜱᴇᴅᴀɴɢ memᴩʀᴏꜱᴇꜱ...*')
+    m.reply('*[_wᴀɪᴛ_] _sᴇᴅᴀɴɢ memᴩʀᴏꜱᴇꜱ...⏳_*')
     if (!sticker) throw sticker
     let bufs = []
     let im = spawn('convert', ['webp:-', 'jpeg:-'])
