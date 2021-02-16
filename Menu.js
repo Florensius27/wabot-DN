@@ -76,14 +76,6 @@ Main
 ┣➤ $(_p)lirik *[title]*
 ┗━━━━━━━━━
 
-┏━ *[_Quotes_]*
-┃
-┣➤ $(_p)bucin
-┣➤ $(_p)katabijak
-┣➤ $(_p)fakta
-┣➤ $(_p)pantun
-┗━━━━━━
-
 ┏━━ *[_Tools_]*
 ┃
 ┣➤ $(_p)harta tahta *[text]*
@@ -122,6 +114,7 @@ Main
 ┣➤ $(_p)ping
 ┣➤ $(_p)speed 
 ┣➤ $(_p)jadibot
+┣➤ $(_p)fakta
 ┗━━━━━━
 
 ┏━━ *[_Owner_]*
