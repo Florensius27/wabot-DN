@@ -86,12 +86,15 @@ Main
 
 ┏━━ *[_Tools_]*
 ┃
-┣➤ !harta tahta [text]
+┣➤ !harta tahta *[text]*
+┣➤ !ttp *[text]*
 ┣➤ !textpro <effect> <text> | text
+┣➤ !attp *[text]*
 ┣➤ !glitchtext *[text]*
+┣➤ !tts *[text]*
 ┣➤ !avangerslogo *[text]*
 ┣➤ !nulis *[text]*
-┗━━━━━━━━━━━
+┗━━━━━━━━━━━━
 
 ┏━ *[_Education_]*
 ┃
@@ -108,7 +111,7 @@ Main
 ┣➤ !fight = +500 xp
 ┣➤ !daily
 ┣➤ !claim
-┗━━━━━━━
+┗━━━━━━━━
 
 ┏━ *[_other_]*
 ┃
